@@ -13,6 +13,7 @@ Currently only 3 functions are supported
 ### Inventory Form
 Allows a user to enter product details into inventory such as product name, price, quantity and more.
 Allows user to list all the records and print the total number of records in the database as well.
+
 ![Inventory Form](https://github.com/PranavP4tel/PMart/blob/main/images/Inventory_Form.png)
 
 
